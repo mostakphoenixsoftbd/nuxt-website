@@ -1,0 +1,6 @@
+v=spf1 include:_spf.mailhostbox.com -all
+
+
+
+
+v=spf1 redirect=_spf.mailhostbox.com

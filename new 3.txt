@@ -1,0 +1,14 @@
+git init
+git remote add origin https://github.com/mostakphoenixsoftbd/phoenixEcommerce4.git
+
+
+
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+
+username: mostakphoenixsoftbd@gmail.com
+password:  ^D##9Kx7TgmNyS9B
+
+ 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
